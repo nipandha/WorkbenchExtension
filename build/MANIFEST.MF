@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_79-b15 (Oracle Corporation)
+UNO-Type-Path: 
+RegistrationClassName: com.example.CentralRegistrationClass
+Class-Path: lib/apache-commons-lang.jar lib/commons-codec-1.9.jar lib/
+ poi-3.13.jar lib/poi-ooxml-3.13.jar lib/poi-ooxml-schemas-3.13.jar li
+ b/stax-api-1.0.1.jar lib/xmlbeans-2.6.0.jar
+
+Name: com/example/CentralRegistrationClass.class
+RegistrationClasses: com.example.VideoWorkbench
+
