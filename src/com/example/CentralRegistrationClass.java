@@ -21,7 +21,7 @@
 /*
  * CentralRegistrationClass.java
  *
- * Created on 2015.12.30 - 23:14:49
+ * Created on 2016.02.26 - 15:12:32
  *
  */
 package com.example;
@@ -43,7 +43,7 @@ import java.util.jar.Manifest;
 
 /**
  *
- * @author hp
+ * @author jeffreymjosanne
  */
 public class CentralRegistrationClass {
     
